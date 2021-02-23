@@ -1,0 +1,2 @@
+C:\Users\Матвей\Desktop\ИИП\Lab_4\Lab_4\x64\Debug\Lab_4.exe
+C:\Users\Матвей\Desktop\ИИП\Lab_4\Lab_4\x64\Debug\Lab_4.pdb
